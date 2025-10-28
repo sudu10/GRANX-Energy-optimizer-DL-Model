@@ -1,0 +1,8 @@
+appliance_name,duration,window
+fridge,24.0,"0,23"
+dryer,1.6,"9,23"
+coffee machine,4.7,"0,23"
+kettle,4.6,"1,23"
+washing machine,24.0,"0,23"
+pc,24.0,"0,23"
+freezer,24.0,"0,23"
