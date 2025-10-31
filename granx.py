@@ -588,7 +588,7 @@ ax2.plot(predictions[:168], label='Predicted (GRAN-X)', linewidth=2, color='#e74
 ax2.fill_between(range(168), y_test[:168], predictions[:168], alpha=0.2, color='yellow')
 ax2.set_xlabel('Time (Hours)', fontsize=12)
 ax2.set_ylabel('Power (kWh)', fontsize=12)
-ax2.set_title('Prediction vs Actual (Test Data - 1 Week)', fontsize=14, fontweight='bold')
+ax2.set_title('Prediction vs Actual (Test Data)', fontsize=14, fontweight='bold')
 ax2.legend(loc='upper right', fontsize=11)
 ax2.grid(alpha=0.3)
 
